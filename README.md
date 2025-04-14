@@ -60,5 +60,7 @@ This is a full-stack AI-powered web application that provides customer service a
 cd frontend
 npm install
 npm run dev
+---
+### Backend (React)
 
 
