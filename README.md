@@ -54,11 +54,12 @@ This is a full-stack AI-powered web application that provides customer service a
 
 ---
 ### Backend (Python)
+``terminal
 python app.py
 
 ### Frontend (React)
 
-```bash
+```terminal
 cd frontend
 npm install
 npm run dev
