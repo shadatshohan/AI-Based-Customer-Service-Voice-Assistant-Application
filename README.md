@@ -42,3 +42,23 @@ This is a full-stack AI-powered web application that provides customer service a
 
 ## 📁 Project Structure
 
+---
+
+## ⚙️ Getting Started (Local Setup)
+
+### Prerequisites
+
+- Node.js & npm
+- Python 3.x
+- pip
+
+---
+
+### Frontend (React)
+
+```bash
+cd frontend
+npm install
+npm run dev
+
+
