@@ -53,6 +53,8 @@ This is a full-stack AI-powered web application that provides customer service a
 - pip
 
 ---
+### Backend (Python)
+python app.py
 
 ### Frontend (React)
 
@@ -61,6 +63,6 @@ cd frontend
 npm install
 npm run dev
 ---
-### Backend (React)
+
 
 
