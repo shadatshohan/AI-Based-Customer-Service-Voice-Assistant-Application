@@ -29,3 +29,28 @@
   opacity: 0.5;
   cursor: not-allowed;
 }
+.info-box .how{
+  background-color: orange;
+}
+.about-section {
+  margin-top: 2rem;
+  padding: 1.2rem;
+  background-color: #fff9c4; /* Soft yellow */
+  border-radius: 8px;
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+.about-section .inform{
+  background-color: aqua;
+}
+.about-section h3 {
+  margin-bottom: 0.5rem;
+  color: #333; /* Slightly darker title */
+}
+
+.about-section p {
+  color: #000; /* Ensure paragraph text is also black */
+  font-size: 1rem;
+}
